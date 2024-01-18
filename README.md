@@ -1,4 +1,4 @@
-# Abstract
+# Unlinked: Analyzing Negative Ties in the Early Modern Republic of Letters
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/C2DH/template_repo_JDH_R/HEAD?filepath=author_guideline_template.ipynb)
 
