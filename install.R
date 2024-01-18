@@ -1,1 +1,6 @@
-install.packages("ggplot2", "tidyverse", "dplyr", "igraph", "threejs", "signnet")
+install.packages("ggplot2")
+install.packages("tidyverse")
+install.packages("dplyr")
+install.packages("igraph")
+install.packages("threejs")
+install.packages("signnet")
