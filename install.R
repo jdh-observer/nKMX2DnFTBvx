@@ -1,0 +1,1 @@
+install.packages("ggplot2", "tidyverse", "dplyr", "igraph", "threejs", "signnet")
