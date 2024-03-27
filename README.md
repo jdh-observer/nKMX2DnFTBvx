@@ -1,6 +1,6 @@
 # Unlinked: Analyzing Negative Ties in the Early Modern Republic of Letters
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://jdh-binder.curvenote.dev/services/binder/v2/gh/jdh-observer/nKMX2DnFTBvx/main?filepath=unlinked-anonymous.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/nKMX2DnFTBvx/main?filepath=unlinked-anonymous.ipynb)
 
 
 
